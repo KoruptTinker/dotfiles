@@ -1,6 +1,6 @@
 {
-  "LazyVim": { "branch": "main", "commit": "d7c7548e09af1d26db57f10be3c77a58f010b1d5" },
-  "Lazyvim": { "branch": "main", "commit": "d541069fdffcf5ffaf2a7f161fd87bb68094c8cf" },
+  "LazyVim": { "branch": "main", "commit": "26e3e39f2eb1251841f5574f29c7eecb55fef816" },
+  "Lazyvim": { "branch": "main", "commit": "c6ddb2328d596771ee562f49462ae10dfc49321f" },
   "LuaSnip": { "branch": "master", "commit": "50fcf17db7c75af80e6b6109acfbfb4504768780" },
   "bufferline.nvim": { "branch": "main", "commit": "99337f63f0a3c3ab9519f3d1da7618ca4f91cffe" },
   "catppuccin": { "branch": "main", "commit": "cc8e290d4c0d572171243087f8541e49be2c8764" },
@@ -43,10 +43,11 @@
   "nvim-web-devicons": { "branch": "master", "commit": "c0cfc1738361b5da1cd0a962dd6f774cc444f856" },
   "persistence.nvim": { "branch": "main", "commit": "5fe077056c821aab41f87650bd6e1c48cd7dd047" },
   "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
+  "rust-tools.nvim": { "branch": "master", "commit": "676187908a1ce35ffcd727c654ed68d851299d3e" },
   "telescope-fzf-native.nvim": { "branch": "main", "commit": "9ef21b2e6bb6ebeaf349a0781745549bbb870d27" },
   "telescope.nvim": { "branch": "master", "commit": "f12b15e1b3a33524eb06a1ae7bc852fb1fd92197" },
   "todo-comments.nvim": { "branch": "main", "commit": "9c104cf7868f1c739b43a07e5593666cc9de2d67" },
   "tokyonight.nvim": { "branch": "main", "commit": "0283787031ef9878a2b80300de0d22e938771998" },
-  "trouble.nvim": { "branch": "main", "commit": "483eb2d7590b3b87cf159e3bdf96170eaaa361e8" },
+  "trouble.nvim": { "branch": "main", "commit": "44b637ae665fb025394ab99d828b97160581a291" },
   "which-key.nvim": { "branch": "main", "commit": "0099511294f16b81c696004fa6a403b0ae61f7a0" }
 }
