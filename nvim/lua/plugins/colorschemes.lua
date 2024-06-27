@@ -1,11 +1,9 @@
 return {
-  { "ellisonleao/gruvbox.nvim" },
-  { "sainnhe/gruvbox-material" },
-  { "rebelot/kanagawa.nvim" },
+  { "rose-pine/neovim" },
   {
     "Lazyvim/Lazyvim",
     opts = {
-      colorscheme = "kanagawa-dragon",
+      colorscheme = "rose-pine",
     },
   },
 }
